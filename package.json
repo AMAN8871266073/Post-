@@ -1,0 +1,28 @@
+{
+  "name": "post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMAN8871266073/post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMAN8871266073/post/issues"
+  },
+  "homepage": "https://github.com/AMAN8871266073/post#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1077.0",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2",
+    "multer": "^1.4.4"
+  }
+}
